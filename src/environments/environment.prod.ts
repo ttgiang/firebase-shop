@@ -6,7 +6,7 @@ export const environment = {
     email: "ttgiang@gmail.com",
     isAdmin: true,
   },
-  uid "iBnJZTNU0JhQpZcRtKeUfo0ToI03",
+  uid: "iBnJZTNU0JhQpZcRtKeUfo0ToI03",
   firebase: {
     apiKey: "",
     authDomain: "",
